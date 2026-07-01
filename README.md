@@ -1,5 +1,7 @@
-# Andaime Certo CBS
+# Andaime Certo CBS V2
 
-App inicial para cálculo comercial preliminar de andaimes, escoras e acessórios.
-
-As simulações não substituem projeto estrutural ou profissional habilitado.
+Correções:
+- Nova simulação zera cálculo anterior.
+- Níveis sugeridos automaticamente pela altura.
+- WhatsApp permanece como compartilhamento principal.
+- Compartilhar virou criação de PDF/impressão.
