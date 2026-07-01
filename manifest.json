@@ -1,0 +1,9 @@
+{
+  "name": "Andaime Certo CBS",
+  "short_name": "Andaime Certo",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#020626",
+  "theme_color": "#020626",
+  "icons": []
+}
